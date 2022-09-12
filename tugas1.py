@@ -1,0 +1,10 @@
+print ("...................................")
+print ("TUGAS 1 SISOP KELAS B")
+print ("...................................")
+print ("NAMA : DIENNA ERIES LINGGARSARI")
+print ("NPM : 21083010092")
+print ("...................................")
+print ("notes: ")
+print ("hallo dunia!")
+print ("ini adalah skrip bash pertamaku di linux")
+
